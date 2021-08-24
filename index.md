@@ -1,0 +1,13 @@
+Best Practices:
+1. Call things by their name (w3.org)
+2. Avoid Globals (w3.org)
+3. Stick to a strict coding style (w3.org)
+4. Comment as much as needed, not more (w3.org)
+5. Declare local variables; i.e. var&let (w3schools.com)
+6. Declarations on top (w3schools.com)
+7. Initialize Variables (w3schools.com)
+8. Don't use a new Object() use specific Datatypes (w3schools.com)
+9. Var is not up to date compared to Let and Const (Adam, DevMountain)
+10. Use === instead of == (Adam, DevMountain)
+11. Understand the difference between Undefined and Null (Adam, DevMountain)
+12. Don't use shorthand, be efficient and not sloppy (code.tutsplus.com)
